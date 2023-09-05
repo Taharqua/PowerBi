@@ -11,7 +11,7 @@ I am not going to directly place them on my github, instead, I am going to provi
 This dashboard was made to display global data.
 I have got data on global warming from Kaggle.
 
-The below image is a screenshot of the front cover of a dashboard.
+The below image is a screenshots of the front cover of a dashboard.
 ![unnamed](https://github.com/Taharqua/PowerBi/assets/56850203/d8bf5ad5-4e98-40a1-b815-d9539cc44d43)
 ![unnamed](https://github.com/Taharqua/PowerBi/assets/56850203/8affba70-10e4-4642-9b37-0177e79c26b8)
 ![unnamed](https://github.com/Taharqua/PowerBi/assets/56850203/330fd355-8a60-48ee-af97-fb041c7361c4)
@@ -28,3 +28,6 @@ The amount of methane is 995,760.25 in the first image. In the second image you 
 ## The Year Slider and Year Bar Chart
 The slider and the bar shart allow us to filter out depending on the year. If you want it a year you place to the slider to left or the right. If there are more data points, you are able to sift through them using it.
 If you do not want to use the slider, you can use the bar chart by clicking directly on a year.
+
+## The Emissions Per Country Tab
+The tab on the right shows the amount of methane per country per year on individual area charts. These charts change when selecting different regions and you are also able to scroll down and find each individual country in that region.
