@@ -1,12 +1,12 @@
 # PowerBi
-## My experience with PowerBi
+# My experience with PowerBi
 I created this repository to showcase my work with PowerBi.
 Despite not having a job title aligned with PowerBi, I have significant experience with PowerBi.
 I have created a number of dashboards over my career, however, many of them have confidential information so I am unable to showcase them.
 I have remade some dashboards with dummy data to highlight the functionality of them.
 I am not going to directly place them on my github, instead, I am going to provide screenshots and detail their actions on this repository.
 
-## Global Warming
+# Global Warming
 
 This dashboard was made to display global data.
 I have got data on global warming from Kaggle.
