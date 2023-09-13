@@ -1,15 +1,30 @@
 # PowerBi
-## PowerBi Experience
+# PowerBi Experience
 I created this repository to showcase my work with PowerBi.
 Despite not having a job title aligned with PowerBi, I have significant experience with PowerBi.
 I have created a number of dashboards over my career, however, many of them have confidential information so I am unable to showcase them.
 I have remade some dashboards with dummy data to highlight the functionality of them.
 I am not going to directly place them on my github, instead, I am going to provide screenshots and detail their actions on this repository.
 
-# Global Warming Dashboard
+# Power Query
+
+Power Query is a bi tool which allows you to import data from many different sources and then clean, transform and reshape your data as needed.
+
+Here is an example of what I have used Power Query for:
+
+In this case, I have got a lot of data in the incorrect form.
+We want to record most of the fields separately instead of as one so it is easier to group them when we get to the Power Visuals aspect.
+In doing so, we split the entry into multiple entries by choosing to split by a denominator.
+When this occurs, it adds spaces infront of many entries, we can room this by using the trim transformation.
+Once we have done the above, we are able to remove any unneccessary entries by filtering them data and removing any null data.
+
+# Power Pivot (DAX)
+
+# PowerBi Visuals
+
+## Global Warming Dashboard
 
 This dashboard was made to display global data.
-I have got data on global warming from Kaggle.
 
 The below image is a screenshots of the front cover of a dashboard.
 ![unnamed](https://github.com/Taharqua/PowerBi/assets/56850203/d8bf5ad5-4e98-40a1-b815-d9539cc44d43)
@@ -54,4 +69,7 @@ This is an overview of the annual inflation of each country over the years.
 
 The other functions on this page are similar to the first dashboard and I will not be covering them. If you want to understand them, you can read the details on the "Global Warming Dashboard" segment.
 
+## References:
+Global Emissions Data[https://www.kaggle.com/datasets/ashishraut64/global-methane-emissions]
 
+African Inflation Data[https://www.kaggle.com/datasets/chirin/africa-economic-banking-and-systemic-crisis-data]
