@@ -61,7 +61,7 @@ This dashboard was made with data from Kaggle to show the changes of inflation o
 ## Functionality:
 ## Scatter Chart
 The scatter chart a playable scatterchart.
-In this case, that means that I can showcase each year by just pressing on the play button on the bottom left of the scatter chart. This is illustrated by the changing on years in the picture
+In this case, that means that I can showcase each year by just pressing on the play button on the bottom left of the scatter chart. This is illustrated by the first image as you can see the play button is playing, unlike the rest of the images.
 You are able to select a particular year by selecting a specific year on the timeline located below the scatter chart.
 
 ## Multiple Line Chart 
