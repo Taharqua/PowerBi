@@ -32,6 +32,9 @@ If you do not want to use the slider, you can use the bar chart by clicking dire
 ## The Emissions Per Country Tab
 The tab on the right shows the amount of methane per country per year on individual area charts. These charts change when selecting different regions and you are also able to scroll down and find each individual country in that region.
 
+## Page Navigator
+The tab on the top of the page which details what page we are on is called the page navigator tab. I allows easy changing when showcasing the dashboards.
+
 # African Inflation Dashboard
 
 This dashboard was made with data from Kaggle to show the changes of inflation over the years in certain African countries.
@@ -41,4 +44,14 @@ This dashboard was made with data from Kaggle to show the changes of inflation o
 ![image](https://github.com/Taharqua/PowerBi/assets/56850203/e5db6f5c-6cfa-4562-9e3c-bbcc253e94e5)
 
 ## Functionality:
-# Scatter Chart
+## Scatter Chart
+The scatter chart a playable scatterchart.
+In this case, that means that I can showcase each year by just pressing on the play button on the bottom left of the scatter chart. This is illustrated by the changing on years in the picture
+You are able to select a particular year by selecting a specific year on the timeline located below the scatter chart.
+
+## Multiple Line Chart 
+This is an overview of the annual inflation of each country over the years.
+
+The other functions on this page are similar to the first dashboard and I will not be covering them. If you want to understand them, you can read the details on the "Global Warming Dashboard" segment.
+
+
