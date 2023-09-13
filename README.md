@@ -70,6 +70,6 @@ This is an overview of the annual inflation of each country over the years.
 The other functions on this page are similar to the first dashboard and I will not be covering them. If you want to understand them, you can read the details on the "Global Warming Dashboard" segment.
 
 ## References:
-Global Emissions Data[https://www.kaggle.com/datasets/ashishraut64/global-methane-emissions]
+[Global Emissions Data](https://www.kaggle.com/datasets/ashishraut64/global-methane-emissions)
 
-African Inflation Data[https://www.kaggle.com/datasets/chirin/africa-economic-banking-and-systemic-crisis-data]
+[African Inflation Data](https://www.kaggle.com/datasets/chirin/africa-economic-banking-and-systemic-crisis-data)
