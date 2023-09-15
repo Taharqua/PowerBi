@@ -14,7 +14,7 @@ Power Query is a bi tool which allows you to import data from many different sou
 
 In this case, I have got a lot of data in the incorrect form.
 We want to record most of the fields separately instead of as one so it is easier to group them when we get to the Power Visuals aspect.
-In doing so, we split the entry into multiple entries by choosing to split by a denominator.
+In doing so, we split the entry into multiple entries by choosing to split by a denominator and ensuring that the column type is text.
 When this occurs, it adds spaces infront of many entries, we can room this by using the trim transformation.
 Once we have done the above, we are able to remove any unneccessary entries by filtering them data and removing any null data.
 These steps have been repeated multiple times as there were multiple columns that this issue occurred.
