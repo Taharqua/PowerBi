@@ -20,8 +20,12 @@ Once we have done the above, we are able to remove any unneccessary entries by f
 These steps have been repeated multiple times as there were multiple columns that this issue occurred.
 
 # Power Pivot (DAX)
+
+I have a lot of experience using DAX, here is some examples of which I have used in my Data Insights dashboard:
 ![image](https://github.com/Taharqua/PowerBi/assets/56850203/0d9530ce-20da-4183-9da7-3fc683696d80)
 ![image](https://github.com/Taharqua/PowerBi/assets/56850203/435565fb-dec2-49c9-a855-56be84bababf)
+
+Both of these can be found on the table, along with the "Number of Crises" calculation being used on the chart.
 ![image](https://github.com/Taharqua/PowerBi/assets/56850203/377275f6-c964-4fb7-bb12-65aa5abc49f7)
 
 # PowerBi Visuals
