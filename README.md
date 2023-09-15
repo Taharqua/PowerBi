@@ -11,14 +11,19 @@ I am not going to directly place them on my github, instead, I am going to provi
 Power Query is a bi tool which allows you to import data from many different sources and then clean, transform and reshape your data as needed.
 
 Here is an example of what I have used Power Query for:
+![image](https://github.com/Taharqua/PowerBi/assets/56850203/124d941d-b7d6-4afd-98e6-d46eb14d64e0)
 
 In this case, I have got a lot of data in the incorrect form.
 We want to record most of the fields separately instead of as one so it is easier to group them when we get to the Power Visuals aspect.
 In doing so, we split the entry into multiple entries by choosing to split by a denominator.
 When this occurs, it adds spaces infront of many entries, we can room this by using the trim transformation.
 Once we have done the above, we are able to remove any unneccessary entries by filtering them data and removing any null data.
+These steps have been repeated multiple times as there were multiple columns that this issue occurred.
 
 # Power Pivot (DAX)
+![image](https://github.com/Taharqua/PowerBi/assets/56850203/0d9530ce-20da-4183-9da7-3fc683696d80)
+![image](https://github.com/Taharqua/PowerBi/assets/56850203/435565fb-dec2-49c9-a855-56be84bababf)
+![image](https://github.com/Taharqua/PowerBi/assets/56850203/377275f6-c964-4fb7-bb12-65aa5abc49f7)
 
 # PowerBi Visuals
 
