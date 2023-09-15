@@ -11,6 +11,7 @@ I am not going to directly place them on my github, instead, I am going to provi
 Power Query is a bi tool which allows you to import data from many different sources and then clean, transform and reshape your data as needed.
 
 Here is an example of what I have used Power Query for:
+
 ![image](https://github.com/Taharqua/PowerBi/assets/56850203/124d941d-b7d6-4afd-98e6-d46eb14d64e0)
 
 In this case, I have got a lot of data in the incorrect form.
